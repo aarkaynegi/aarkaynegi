@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I'm Rohit Kumar
 
-<!--
-**aarkaynegi/aarkaynegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WordPress Engineer • Backend & Performance**
 
-Here are some ideas to get you started:
+I build and optimize production WordPress systems — custom themes, plugins, WooCommerce flows, WP REST APIs, caching, Cloudflare, and staging → production deployments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I solve:
+✅ Slow WordPress websites  
+✅ Broken WooCommerce flows  
+✅ Core Web Vitals & performance issues  
+✅ Deployments, migrations, security fixes  
+
+### Tech Stack:
+WordPress • PHP • MySQL • WooCommerce • ACF • REST APIs  
+WP Engine • Cloudflare • Caching • HTML • CSS • JavaScript  
+Exposure: React / Next.js (API integration)
+
+### Current Focus:
+🚀 Improving WordPress performance & stability  
+🔧 Building practical plugins for real-world use  
+
+📍 Open to roles: **Chandigarh / Mohali / Bangalore / Remote**
+
+---
+
+⭐ Check my work below ↓  
+✔ New plugin: **wp-performance-toolkit** (coming soon)  
