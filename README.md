@@ -19,7 +19,7 @@ Exposure: React / Next.js (API integration)
 🚀 Improving WordPress performance & stability  
 🔧 Building practical plugins for real-world use  
 
-📍 Open to roles: **Chandigarh / Mohali / Bangalore / Remote**
+📍 Open to roles: **Chandigarh / Mohali / Noida / Bangalore / Remote**
 
 ---
 
